@@ -3,7 +3,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require('mongoose');
-//reuiring unique id generator package
+//requiring unique id generator package
 const {v4: uuidv4} = require('uuid');
 const d = new Date();
 
