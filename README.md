@@ -14,7 +14,7 @@ back as RESPONSE
 
 <img src="images/orig-testcase-user1.png" hieght="1000" width="1000">
 
-Now , First user will use this API to SEND/POST report on the server from where a unique reportID will be send
+Now , 2nd user will use this API to SEND/POST report on the server from where a unique reportID will be send
 back as RESPONSE
 
 <img src="images/orig-testcase-user2.png" height="500" width="1000">
