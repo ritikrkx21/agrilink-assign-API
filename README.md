@@ -1,5 +1,4 @@
 # agrilink-assignment-API
-This project is is done under assignment from agrilink
 
 Work of this API is to collect data send by different users of different markets reporting about
 the price of different commodities . Hence forming a unique marketID-cmdtID pair for which unique reportID 
